@@ -1,4 +1,4 @@
 class TestsController < ApplicationController
-  def indeex
+  def index
   end
 end
